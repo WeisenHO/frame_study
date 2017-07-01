@@ -1,0 +1,14 @@
+{
+    "name": "weisenho/frame_study",
+    "description": "stydy",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "weisenHO",
+            "email": "306429737@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
